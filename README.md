@@ -1,6 +1,6 @@
 # MiHIO
 [![License: MIT](https://img.shields.io/badge/License-MIT-g.svg)](https://opensource.org/licenses/MIT)
-[![Arxiv](https://img.shields.io/badge/arXiv-2311.17911-B21A1B)]()
+[![Arxiv](https://img.shields.io/badge/)]()
 [![GitHub Stars](https://img.shields.io/github/stars/hanmenghan/MiHIO?style=social)](https://github.com/hanmenghan/MiHIO/stargazers)
 This repository contains the code of our paper.
 
