@@ -1,6 +1,6 @@
 # Skip-\n
 [![License: MIT](https://img.shields.io/badge/License-MIT-g.svg)](https://opensource.org/licenses/MIT)
-<!-- [![Arxiv](https://img.shields.io/badge/)]() -->
+[![Arxiv](https://img.shields.io/badge/arXiv:2402.01345-B21A1B)](https://arxiv.org/pdf/2402.01345.pdf)
 [![GitHub Stars](https://img.shields.io/github/stars/hanmenghan/MiHIO?style=social)](https://github.com/hanmenghan/MiHIO/stargazers)
 
 This repository contains the code of our paper 'Skip \n: A simple method to reduce hallucination in Large Vision-Language Models'.
