@@ -35,4 +35,14 @@ class MiHOProcessor(LogitsProcessor):
 
 Please report any bugs and I will get to them ASAP. For any additional questions, feel free to email zongbo AT tju DOT edu DOT cn.
 
+## Citation
 
+If you find this work useful for your research, please cite our paper:
+```
+@article{han2024skip,
+  title={Skip \n: A simple method to reduce hallucination in Large Vision-Language Models},
+  author={Han, Zongbo and Bai, Zechen and Mei, Haiyang and Xu, Qianli and Zhang, Changqing and Shou, Mike Zheng},
+  journal={arXiv preprint arXiv:2402.01345},
+  year={2024}
+}
+```
